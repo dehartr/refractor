@@ -21,4 +21,3 @@ removed </img>
 used id selector for the classes search-engine-optimization, benefit-lead, benefit-brand and benefit-cost
 
 added a footer tag
-<img src=..\assets\images\01-html-css-git-homework-demo.png>
