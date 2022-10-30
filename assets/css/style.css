@@ -54,7 +54,7 @@ p {
     margin-left: 25px;
 }
 
-.meetingMainImage {
+.MeetingImage{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -64,7 +64,7 @@ p {
 
 
 
-.mainContent {   
+.maincontent {   
     width: 75%;
     display: inline-block;
     margin-left: 20px;
